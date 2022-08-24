@@ -1,7 +1,11 @@
-# Hello-worldd
+# TMDb movies.
 
-## An analysis of a dataset containing information about 10,000 movies collected from The Movie Database (TMDb),including user ratings and revenue. In this data, I will be asking the questions:
+# The Dataset
+The dataset contains information about 10,000 movies collected from The Movie Database (TMDb),including user ratings and revenue.
 
+
+## Analysis.
+The task encompassed the basics of data analysis. The objective was to ask some basic questions and answers them and so, I asked some questions like:
 - Most popular movies year in year out
 - Relationship between budgets and revenues (do movies with higher budgets get higher revenues)
 - Are movies with higher budgets more popular
